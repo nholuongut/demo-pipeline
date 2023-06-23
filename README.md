@@ -1,2 +1,2 @@
-# demo-pipeline
-Build an End toEnd Pipeline and deploy it to EKS service
+
+![jenkins-pipeline.png](./jenkins-pipeline.png)
